@@ -354,7 +354,7 @@ TAKIM: DİJİTAL KAHRAMANLAR
     
 GÜÇLER: Sizin mahremiyetiniz ve güvenliğiniz için savaşır. Tehlikedeki insanlara kişisel bilgilerinin güvenliklerini sağlayabilsinler diye güçlü özel anahtarlar verir.
 
-SİLAHLAR: Başlığı. Onu, gözlerinden enerji ışınları atmak için kullanıyor. Fin Avcısının tehlikeli ağını delip geçebilir.
+SİLAHLAR: Başlığı. Onu, gözlerinden enerji ışınları atmak için kullanıyor. Sır Avcısının tehlikeli ağını delip geçebilir.
 
 SIR AVCISI 
 
